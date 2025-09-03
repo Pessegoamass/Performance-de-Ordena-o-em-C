@@ -1,0 +1,37 @@
+Algoritmo,Estado,TempoMediana(ms),ComparacoesMedia
+Bubble Sort,Aleatório,0.78,985014
+Bubble Sort,Ordenado,0.00,999
+Bubble Sort,Decrescente,0.75,999000
+Bubble Sort,Quase Ordenado,0.89,896303
+Insertion Sort,Aleatório,0.39,253687
+Insertion Sort,Ordenado,0.00,999
+Insertion Sort,Decrescente,0.75,499988
+Insertion Sort,Quase Ordenado,0.08,60796
+qsort,Aleatório,0.04,8710
+qsort,Ordenado,0.02,4932
+qsort,Decrescente,0.04,5261
+qsort,Quase Ordenado,0.04,7907
+Bubble Sort,Aleatório,16.62,24655068
+Bubble Sort,Ordenado,0.01,4999
+Bubble Sort,Decrescente,22.46,24995000
+Bubble Sort,Quase Ordenado,21.49,24207158
+Insertion Sort,Aleatório,7.76,6318816
+Insertion Sort,Ordenado,0.01,4999
+Insertion Sort,Decrescente,10.72,12499974
+Insertion Sort,Quase Ordenado,1.58,1433401
+qsort,Aleatório,0.44,55328
+qsort,Ordenado,0.17,29804
+qsort,Decrescente,0.21,32762
+qsort,Quase Ordenado,0.31,51114
+Bubble Sort,Aleatório,94.39,98320167
+Bubble Sort,Ordenado,0.01,9999
+Bubble Sort,Decrescente,101.21,99980001
+Bubble Sort,Quase Ordenado,74.64,97464253
+Insertion Sort,Aleatório,28.31,25175194
+Insertion Sort,Ordenado,0.01,9999
+Insertion Sort,Decrescente,63.63,50000028
+Insertion Sort,Quase Ordenado,6.53,5783166
+qsort,Aleatório,1.02,120533
+qsort,Ordenado,0.27,64608
+qsort,Decrescente,0.41,70540
+qsort,Quase Ordenado,0.61,112248
